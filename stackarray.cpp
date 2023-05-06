@@ -65,6 +65,5 @@ int main()
 		else
 			printf("invalid choice\n");
 	}
-	printf("ASHIKA JAIN \n2101641520032 \nCS-AI-2B");
 	return 0;
 }

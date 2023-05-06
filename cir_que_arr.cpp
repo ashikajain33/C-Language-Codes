@@ -91,6 +91,5 @@ int main()
 		else
 			printf("Invalid Input\n");
 	}
-	printf("SHREYA SRIVASTAVA \n2101641520134\nCS-AI-2A\n");
 	return 0;
 }

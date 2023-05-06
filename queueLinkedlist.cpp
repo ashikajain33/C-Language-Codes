@@ -76,5 +76,4 @@ main()
 		else
 			printf("Invalid Input\n");
 	}
-	printf("ASHIKA JAIN \n2101641520032 \nCS-AI-2B \n");
 }

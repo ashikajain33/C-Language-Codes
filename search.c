@@ -80,6 +80,5 @@ main()
 		else 
 			printf("INVALID INPUT\n");
 		}
-		printf("ASHIKA JAIN\n 2101641520032\n CS-AI-2B\n ");
 	return 0;
 }
